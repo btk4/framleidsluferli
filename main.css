@@ -35,18 +35,14 @@ footer, header, hgroup, menu, nav, section {
 
 
 
-boxed {
-    border-width: 3px;
-    border-style: solid; 
-    border-color: black; 
+.boxed {
     
-   /* border: 3px solid black ;
-    border-style: solid; */
+    border: 3px solid black ;
 	padding: 20px; 
 }
 table {
   font-family: arial, sans-serif;
-  /* border-collapse: collapse; */
+  border-collapse: collapse;
   width: 100%;
 }
 
